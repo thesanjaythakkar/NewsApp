@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+
+
+    <string name="news_message">New NEWS Updated!</string>
+    <string name="reminder_message">Reminder: Visit News App, New NEWS Updated!</string>
+</resources>
